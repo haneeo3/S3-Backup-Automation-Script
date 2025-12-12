@@ -38,11 +38,10 @@ Make sure you have the following installed and configured:
 ```
 s3-backup-project/
 │
-├── s3-backup.sh          # Main backup script
 ├── README.md             # Documentation
-├── backup.log            # Log file (optional example)
-└── examples/
-      └── screenshot.png  # Optional screenshot
+|__ backup.log            
+
+     
 ```
 
 ---
