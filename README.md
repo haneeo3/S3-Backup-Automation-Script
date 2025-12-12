@@ -131,16 +131,6 @@ fi
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Place any screenshots inside the `examples/` folder and reference them here:
-
-```
-![Backup Screenshot](examples/screenshot.png)
-```
-
----
-
 ## 🧪 Real-World Use Cases
 
 This script is suitable for:
